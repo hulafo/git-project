@@ -1,0 +1,3 @@
+<?
+	echo "mr Vahat";
+?>
